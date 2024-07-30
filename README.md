@@ -1,2 +1,2 @@
 # Data-Analysis
-Detail data analysis of a large data set
+A comprehensive data analysis of a large time series data set
